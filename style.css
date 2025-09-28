@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+p {
+    color: red;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+h2 {
+    color: green;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
